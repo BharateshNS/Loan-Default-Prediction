@@ -21,6 +21,6 @@ Approach
 * Filling missing values
 * Use dummy encoder for categorical features
 * using SMOTE to Balence data
-* SCaling
+* Scaling
 * Model building
 * Grid Search
