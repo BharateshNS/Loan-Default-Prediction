@@ -18,9 +18,9 @@ Approach
 
 * Understand the dataset
 * EDA
-* Fill in missing values
+* Filling missing values
 * Use dummy encoder for categorical features
 * using SMOTE to Balence data
 * SCaling
 * Model building
-*Grid Search
+* Grid Search
